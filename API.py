@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import requests
 import json
 api_url = "http://ipwho.is/8.8.4.4"
